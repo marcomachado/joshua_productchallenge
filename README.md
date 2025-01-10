@@ -19,3 +19,6 @@
 - Run the command: ng serve
 - Access the url http://localhost:4200/
 - Username = admin and Password = admin
+
+### Using docker
+ - Run the command: docker compose up
